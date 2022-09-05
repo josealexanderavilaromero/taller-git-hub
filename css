@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(202, 255, 224);
+    }
+.javila{
+    background-color: #2f00ff;
+    width: 270px;
+    border-radius:18px;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 8px 8px 8px;
+    }
+.javila img{
+    border-radius: 180%;
+}
+.javila button{
+    color: rgb(255, 255, 255);
+}
